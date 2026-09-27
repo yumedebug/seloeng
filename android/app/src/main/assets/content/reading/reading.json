@@ -1,0 +1,310 @@
+[
+ {
+  "id": 1,
+  "levelOrder": 0,
+  "title": "A Day at the Park",
+  "text": "Anna goes to the park near her house every Sunday. She runs for twenty minutes and then sits under a big tree. Her brother brings sandwiches and orange juice. Birds come close because people often share their food. Anna feels calm before the busy week begins.",
+  "questions": [
+   {
+    "question": "When does Anna visit the park?",
+    "options": [
+     "Every Sunday",
+     "Every morning",
+     "On Saturdays",
+     "Once a month"
+    ],
+    "correctIndex": 0,
+    "explanation": "The first sentence says every Sunday."
+   },
+   {
+    "question": "What does her brother bring?",
+    "options": [
+     "Sandwiches and juice",
+     "A ball",
+     "A newspaper",
+     "Cookies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Her brother brings sandwiches and orange juice."
+   },
+   {
+    "question": "Why do birds come close?",
+    "options": [
+     "Because people share food",
+     "Because of the tree",
+     "Because Anna sings",
+     "Because it rains"
+    ],
+    "correctIndex": 0,
+    "explanation": "The text links sharing food with the birds approaching."
+   }
+  ],
+  "vocabularyNotes": [
+   {
+    "word": "calm",
+    "meaning": "落ち着いて"
+   },
+   {
+    "word": "near",
+    "meaning": "近くの"
+   },
+   {
+    "word": "share",
+    "meaning": "分かち合う"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "levelOrder": 1,
+  "title": "Learning to Cook",
+  "text": "When Ken moved into his first apartment, he could not cook anything. He watched short videos and practiced one dish each weekend. At first he burned rice and used too much salt. Six months later, friends asked him to host dinners. Ken learned that small, regular practice beats sudden effort.",
+  "questions": [
+   {
+    "question": "How often did Ken practice?",
+    "options": [
+     "Once a weekend",
+     "Every day",
+     "Twice a month",
+     "Never"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ken practiced one dish each weekend."
+   },
+   {
+    "question": "What happened after six months?",
+    "options": [
+     "Friends asked him to host dinners",
+     "He opened a restaurant",
+     "He moved out",
+     "He stopped cooking"
+    ],
+    "correctIndex": 0,
+    "explanation": "The text says friends asked him to host dinners."
+   },
+   {
+    "question": "What lesson does the passage teach?",
+    "options": [
+     "Small regular practice beats sudden effort",
+     "Cooking is dangerous",
+     "Videos replace practice",
+     "Salt improves everything"
+    ],
+    "correctIndex": 0,
+    "explanation": "Final sentence states the moral."
+   }
+  ],
+  "vocabularyNotes": [
+   {
+    "word": "apartment",
+    "meaning": "アパート"
+   },
+   {
+    "word": "burned",
+    "meaning": "焦がした"
+   },
+   {
+    "word": "host",
+    "meaning": "主催する"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "levelOrder": 2,
+  "title": "The Night Market",
+  "text": "Osaka's night markets glow with paper lanterns and the smell of grilled squid. Vendors shout prices while customers compare skewers. Tourists photograph everything, but locals simply eat and talk. A market lives longest when its regulars keep returning, not when its photos keep circulating.",
+  "questions": [
+   {
+    "question": "What do vendors shout?",
+    "options": [
+     "Prices",
+     "Directions",
+     "Poems",
+     "Weather reports"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vendors shout prices."
+   },
+   {
+    "question": "What do tourists tend to do?",
+    "options": [
+     "Photograph everything",
+     "Cook the squid",
+     "Clean the market",
+     "Sleep early"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tourists photograph everything."
+   },
+   {
+    "question": "What keeps a market alive according to the author?",
+    "options": [
+     "Returning regulars",
+     "Famous chefs",
+     "Government grants",
+     "TV programs"
+    ],
+    "correctIndex": 0,
+    "explanation": "Last sentence: regulars keep returning."
+   }
+  ],
+  "vocabularyNotes": [
+   {
+    "word": "vendors",
+    "meaning": "行商人"
+   },
+   {
+    "word": "skewers",
+    "meaning": "串焼き"
+   },
+   {
+    "word": "circulating",
+    "meaning": "広まる"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "levelOrder": 3,
+  "title": "Remote Work Revolution",
+  "text": "Before 2020, commuting felt permanent. Then video calls replaced hallways, and kitchens became offices. Managers worried productivity would fall; several studies found it rose for focused tasks but fell for creative collaboration. The companies adapting best treat the office as a studio for teamwork, not a prison for attendance.",
+  "questions": [
+   {
+    "question": "According to studies, remote productivity...",
+    "options": [
+     "rose for focused tasks but fell for collaboration",
+     "always increased",
+     "always decreased",
+     "was unchanged"
+    ],
+    "correctIndex": 0,
+    "explanation": "The third sentence gives this contrast."
+   },
+   {
+    "question": "How do adaptive companies view the office?",
+    "options": [
+     "A studio for teamwork",
+     "A place for punishment",
+     "An unnecessary expense",
+     "A training camp"
+    ],
+    "correctIndex": 0,
+    "explanation": "Final sentence: as a studio for teamwork."
+   }
+  ],
+  "vocabularyNotes": [
+   {
+    "word": "commuting",
+    "meaning": "通勤"
+   },
+   {
+    "word": "productivity",
+    "meaning": "生産性"
+   },
+   {
+    "word": "collaboration",
+    "meaning": "協働"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "levelOrder": 4,
+  "title": "The Economics of Attention",
+  "text": "Every app competes for the same scarce resource: human attention. Designers measure scroll depth and pause length the way factories once measured output per hour. Critics call this behavioural surplus extraction; defenders argue users freely trade attention for free services. Either way, the business model shapes what we notice, and what we notice shapes what we value.",
+  "questions": [
+   {
+    "question": "What do designers measure?",
+    "options": [
+     "Scroll depth and pause length",
+     "Salary levels",
+     "Server costs",
+     "Battery size"
+    ],
+    "correctIndex": 0,
+    "explanation": "Second sentence."
+   },
+   {
+    "question": "What do critics call the practice?",
+    "options": [
+     "Behavioural surplus extraction",
+     "Market failure",
+     "Public good",
+     "Creative destruction"
+    ],
+    "correctIndex": 0,
+    "explanation": "Third sentence names the critique."
+   },
+   {
+    "question": "What is the author's concluding claim?",
+    "options": [
+     "Business models shape attention and thus values",
+     "Attention is unlimited",
+     "Apps should charge fees",
+     "Factories resemble apps"
+    ],
+    "correctIndex": 0,
+    "explanation": "The final sentence generalises."
+   }
+  ],
+  "vocabularyNotes": [
+   {
+    "word": "scarce",
+    "meaning": "希少な"
+   },
+   {
+    "word": "extraction",
+    "meaning": "抽出"
+   },
+   {
+    "word": "defenders",
+    "meaning": "擁護者"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "levelOrder": 5,
+  "title": "On Translation Loss",
+  "text": "Translators joke that languages are polite conspiracies against directness. Japanese hedges with trailing verbs; Russian encodes aspect in the verb stem itself; English smuggles certainty into modal auxiliaries. A faithful translation therefore rarely reproduces words; it reconstructs intentions under foreign constraints, which is why two competent translators produce two defensible versions.",
+  "questions": [
+   {
+    "question": "Japanese is described as...",
+    "options": [
+     "hedging with trailing verbs",
+     "encoding aspect in stems",
+     "smuggling certainty",
+     "being overly literal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Second sentence attributes hedging to Japanese."
+   },
+   {
+    "question": "Why do two translators differ?",
+    "options": [
+     "Translation reconstructs intentions under constraints",
+     "One must be wrong",
+     "Words have single meanings",
+     "AI causes variation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Final sentence explains defensibility of multiple versions."
+   }
+  ],
+  "vocabularyNotes": [
+   {
+    "word": "conspiracies",
+    "meaning": "共謀"
+   },
+   {
+    "word": "hedges",
+    "meaning": "婉曲表現"
+   },
+   {
+    "word": "auxiliaries",
+    "meaning": "助動詞"
+   }
+  ]
+ }
+]

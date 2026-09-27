@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "courseId": 1,
+  "name": "Starter",
+  "description": "Alphabet, greetings and the very basics",
+  "order": 0
+ },
+ {
+  "id": 2,
+  "courseId": 1,
+  "name": "Beginner",
+  "description": "Simple everyday sentences (A1)",
+  "order": 1
+ },
+ {
+  "id": 3,
+  "courseId": 1,
+  "name": "Elementary",
+  "description": "Daily conversation (A2)",
+  "order": 2
+ },
+ {
+  "id": 4,
+  "courseId": 1,
+  "name": "Pre-Intermediate",
+  "description": "Expanding your range (A2+/B1)",
+  "order": 3
+ },
+ {
+  "id": 5,
+  "courseId": 1,
+  "name": "Intermediate",
+  "description": "Confident communication (B1)",
+  "order": 4
+ },
+ {
+  "id": 6,
+  "courseId": 1,
+  "name": "Upper-Intermediate",
+  "description": "Nuance and fluency (B2)",
+  "order": 5
+ },
+ {
+  "id": 7,
+  "courseId": 1,
+  "name": "Advanced",
+  "description": "Precision and style (C1)",
+  "order": 6
+ },
+ {
+  "id": 8,
+  "courseId": 1,
+  "name": "Expert",
+  "description": "Near-native command (C2)",
+  "order": 7
+ }
+]

@@ -1,0 +1,962 @@
+[
+ {
+  "id": 1001,
+  "unitId": 101,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1002,
+  "unitId": 101,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1003,
+  "unitId": 101,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1004,
+  "unitId": 101,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1005,
+  "unitId": 101,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1006,
+  "unitId": 102,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1007,
+  "unitId": 102,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1008,
+  "unitId": 102,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1009,
+  "unitId": 102,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1010,
+  "unitId": 102,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1011,
+  "unitId": 103,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1012,
+  "unitId": 103,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1013,
+  "unitId": 103,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1014,
+  "unitId": 103,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1015,
+  "unitId": 103,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1016,
+  "unitId": 104,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1017,
+  "unitId": 104,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1018,
+  "unitId": 104,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1019,
+  "unitId": 104,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1020,
+  "unitId": 104,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1021,
+  "unitId": 105,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1022,
+  "unitId": 105,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1023,
+  "unitId": 105,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1024,
+  "unitId": 105,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1025,
+  "unitId": 105,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1026,
+  "unitId": 106,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1027,
+  "unitId": 106,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1028,
+  "unitId": 106,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1029,
+  "unitId": 106,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1030,
+  "unitId": 106,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1031,
+  "unitId": 107,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1032,
+  "unitId": 107,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1033,
+  "unitId": 107,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1034,
+  "unitId": 107,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1035,
+  "unitId": 107,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1036,
+  "unitId": 108,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1037,
+  "unitId": 108,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1038,
+  "unitId": 108,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1039,
+  "unitId": 108,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1040,
+  "unitId": 108,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1041,
+  "unitId": 109,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1042,
+  "unitId": 109,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1043,
+  "unitId": 109,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1044,
+  "unitId": 109,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1045,
+  "unitId": 109,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1046,
+  "unitId": 110,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1047,
+  "unitId": 110,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1048,
+  "unitId": 110,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1049,
+  "unitId": 110,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1050,
+  "unitId": 110,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1051,
+  "unitId": 111,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1052,
+  "unitId": 111,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1053,
+  "unitId": 111,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1054,
+  "unitId": 111,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1055,
+  "unitId": 111,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1056,
+  "unitId": 112,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1057,
+  "unitId": 112,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1058,
+  "unitId": 112,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1059,
+  "unitId": 112,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1060,
+  "unitId": 112,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1061,
+  "unitId": 113,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1062,
+  "unitId": 113,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1063,
+  "unitId": 113,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1064,
+  "unitId": 113,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1065,
+  "unitId": 113,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1066,
+  "unitId": 114,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1067,
+  "unitId": 114,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1068,
+  "unitId": 114,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1069,
+  "unitId": 114,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1070,
+  "unitId": 114,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1071,
+  "unitId": 115,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1072,
+  "unitId": 115,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1073,
+  "unitId": 115,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1074,
+  "unitId": 115,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1075,
+  "unitId": 115,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1076,
+  "unitId": 116,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1077,
+  "unitId": 116,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1078,
+  "unitId": 116,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1079,
+  "unitId": 116,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1080,
+  "unitId": 116,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1081,
+  "unitId": 117,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1082,
+  "unitId": 117,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1083,
+  "unitId": 117,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1084,
+  "unitId": 117,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1085,
+  "unitId": 117,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1086,
+  "unitId": 118,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1087,
+  "unitId": 118,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1088,
+  "unitId": 118,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1089,
+  "unitId": 118,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1090,
+  "unitId": 118,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1091,
+  "unitId": 119,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1092,
+  "unitId": 119,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1093,
+  "unitId": 119,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1094,
+  "unitId": 119,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1095,
+  "unitId": 119,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1096,
+  "unitId": 120,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1097,
+  "unitId": 120,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1098,
+  "unitId": 120,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1099,
+  "unitId": 120,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1100,
+  "unitId": 120,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1101,
+  "unitId": 121,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1102,
+  "unitId": 121,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1103,
+  "unitId": 121,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1104,
+  "unitId": 121,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1105,
+  "unitId": 121,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1106,
+  "unitId": 122,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1107,
+  "unitId": 122,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1108,
+  "unitId": 122,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1109,
+  "unitId": 122,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1110,
+  "unitId": 122,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1111,
+  "unitId": 123,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1112,
+  "unitId": 123,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1113,
+  "unitId": 123,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1114,
+  "unitId": 123,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1115,
+  "unitId": 123,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ },
+ {
+  "id": 1116,
+  "unitId": 124,
+  "order": 1,
+  "name": "Vocabulary Building",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1117,
+  "unitId": 124,
+  "order": 2,
+  "name": "Grammar Focus",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1118,
+  "unitId": 124,
+  "order": 3,
+  "name": "Practice & Application",
+  "lessonType": "NORMAL",
+  "xpReward": 20
+ },
+ {
+  "id": 1119,
+  "unitId": 124,
+  "order": 4,
+  "name": "Review",
+  "lessonType": "REVIEW",
+  "xpReward": 15
+ },
+ {
+  "id": 1120,
+  "unitId": 124,
+  "order": 5,
+  "name": "Checkpoint",
+  "lessonType": "TEST",
+  "xpReward": 30
+ }
+]
