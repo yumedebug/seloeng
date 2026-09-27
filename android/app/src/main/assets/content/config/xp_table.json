@@ -1,0 +1,29 @@
+{
+ "exerciseCorrect": {
+  "MULTIPLE_CHOICE": 5,
+  "TRUE_FALSE": 3,
+  "SPELLING": 5,
+  "FILL_IN_BLANK": 6,
+  "WORD_ORDERING": 8,
+  "TRANSLATION": 10,
+  "LISTENING": 7,
+  "MATCHING": 8,
+  "READING": 12,
+  "WRITING": 12,
+  "SPEAKING": 10,
+  "WORD_SELECTION": 6,
+  "SENTENCE_COMPLETION": 7
+ },
+ "lessonBonus": {
+  "NORMAL": 20,
+  "REVIEW": 15,
+  "TEST": 30,
+  "PRACTICE": 10,
+  "READING": 20,
+  "LISTENING": 20,
+  "SPEAKING": 20,
+  "WRITING": 20
+ },
+ "perfectLessonBonus": 10,
+ "checkpointBonus": 25
+}

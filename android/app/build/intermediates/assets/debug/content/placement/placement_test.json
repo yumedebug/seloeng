@@ -1,0 +1,122 @@
+[
+ {
+  "id": 1,
+  "question": "Choose the correct sentence:",
+  "options": [
+   "He don't like coffee.",
+   "He doesn't likes coffee.",
+   "He doesn't like coffee.",
+   "He not like coffee."
+  ],
+  "correctIndex": 2,
+  "levelAward": 1
+ },
+ {
+  "id": 2,
+  "question": "Fill in: Yesterday we ___ to the museum.",
+  "options": [
+   "go",
+   "went",
+   "gone",
+   "going"
+  ],
+  "correctIndex": 1,
+  "levelAward": 1
+ },
+ {
+  "id": 3,
+  "question": "Fill in: This is the man ___ helped us.",
+  "options": [
+   "which",
+   "who",
+   "whose",
+   "whom"
+  ],
+  "correctIndex": 1,
+  "levelAward": 2
+ },
+ {
+  "id": 4,
+  "question": "Choose the correct form:",
+  "options": [
+   "I look forward to hear from you.",
+   "I look forward to hearing from you.",
+   "I look forward hear from you.",
+   "I looking forward to hearing you."
+  ],
+  "correctIndex": 1,
+  "levelAward": 3
+ },
+ {
+  "id": 5,
+  "question": "Fill in: If I ___ rich, I would travel the world.",
+  "options": [
+   "am",
+   "will be",
+   "were",
+   "been"
+  ],
+  "correctIndex": 2,
+  "levelAward": 4
+ },
+ {
+  "id": 6,
+  "question": "Which sentence uses the passive correctly?",
+  "options": [
+   "The letter was wrote yesterday.",
+   "The letter was written yesterday.",
+   "The letter wrote yesterday.",
+   "The letter is writing."
+  ],
+  "correctIndex": 1,
+  "levelAward": 4
+ },
+ {
+  "id": 7,
+  "question": "'Ubiquitous' is closest in meaning to:",
+  "options": [
+   "rare",
+   "present everywhere",
+   "expensive",
+   "hidden"
+  ],
+  "correctIndex": 1,
+  "levelAward": 6
+ },
+ {
+  "id": 8,
+  "question": "Choose the inverted sentence:",
+  "options": [
+   "Rarely I have seen that.",
+   "Rarely have I seen that.",
+   "I have rarely seen that that.",
+   "Have rarely I seen that."
+  ],
+  "correctIndex": 1,
+  "levelAward": 7
+ },
+ {
+  "id": 9,
+  "question": "Fill in: She insisted that he ___ the truth.",
+  "options": [
+   "tells",
+   "tell",
+   "told",
+   "telling"
+  ],
+  "correctIndex": 1,
+  "levelAward": 7
+ },
+ {
+  "id": 10,
+  "question": "Which is grammatical?",
+  "options": [
+   "Hardly had we arrived when it started.",
+   "Hardly we had arrived when it started.",
+   "We hardly had arrived when it started was.",
+   "Had hardly we arrived."
+  ],
+  "correctIndex": 0,
+  "levelAward": 8
+ }
+]

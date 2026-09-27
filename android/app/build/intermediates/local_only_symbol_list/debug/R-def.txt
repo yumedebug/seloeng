@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color background
+color black
+color error
+color life_red
+color locked_gray
+color on_primary
+color on_surface
+color primary
+color primary_dark
+color streak_orange
+color surface
+color white
+color xp_blue
+string app_name
+style Theme.EnglishMaster
+xml backup_rules
+xml data_extraction_rules

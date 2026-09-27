@@ -1,0 +1,15 @@
+{
+ "version": 1,
+ "contentVersion": "1.1.0",
+ "counts": {
+  "levels": 8,
+  "units": 24,
+  "lessons": 120,
+  "vocabulary": 114,
+  "grammar": 16,
+  "exercises": 888,
+  "reading": 6,
+  "expressions": 20,
+  "achievements": 18
+ }
+}

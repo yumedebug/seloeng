@@ -1,0 +1,162 @@
+[
+ {
+  "id": 1,
+  "expression": "How is it going?",
+  "meaning": "元気？どうしてる？",
+  "tag": "casual",
+  "sample": "Hi! How is it going?",
+  "difficulty": 1
+ },
+ {
+  "id": 2,
+  "expression": "Could you elaborate on that?",
+  "meaning": "もう少し詳しく説明してもらえますか？",
+  "tag": "formal",
+  "sample": "Could you elaborate on that point, please?",
+  "difficulty": 4
+ },
+ {
+  "id": 3,
+  "expression": "I appreciate your help.",
+  "meaning": "お手伝い感謝します。",
+  "tag": "polite",
+  "sample": "I really appreciate your help with this.",
+  "difficulty": 2
+ },
+ {
+  "id": 4,
+  "expression": "No worries.",
+  "meaning": "気にしないで。",
+  "tag": "casual",
+  "sample": "A: Sorry I am late. B: No worries.",
+  "difficulty": 1
+ },
+ {
+  "id": 5,
+  "expression": "Would you mind opening the window?",
+  "meaning": "窓を開けていただけますか？",
+  "tag": "polite",
+  "sample": "Would you mind opening the window a little?",
+  "difficulty": 3
+ },
+ {
+  "id": 6,
+  "expression": "Long time no see!",
+  "meaning": "お久しぶりです！",
+  "tag": "idiom",
+  "sample": "Wow, long time no see!",
+  "difficulty": 1
+ },
+ {
+  "id": 7,
+  "expression": "It is up to you.",
+  "meaning": "それはあなた次第です。",
+  "tag": "expression",
+  "sample": "Which movie shall we watch? It is up to you.",
+  "difficulty": 2
+ },
+ {
+  "id": 8,
+  "expression": "Hang in there.",
+  "meaning": "頑張れ、負けるな。",
+  "tag": "encouragement",
+  "sample": "Exams are tough. Hang in there!",
+  "difficulty": 2
+ },
+ {
+  "id": 9,
+  "expression": "I am afraid I cannot make it.",
+  "meaning": "申し訳ありませんが行けません。",
+  "tag": "business-formal",
+  "sample": "I am afraid I cannot make it to the meeting.",
+  "difficulty": 3
+ },
+ {
+  "id": 10,
+  "expression": "Please find attached the report.",
+  "meaning": "レポートを添付いたします。",
+  "tag": "business",
+  "sample": "Please find attached the report for Q3.",
+  "difficulty": 4
+ },
+ {
+  "id": 11,
+  "expression": "Safe travels!",
+  "meaning": "気をつけて！",
+  "tag": "travel",
+  "sample": "Bye! Safe travels!",
+  "difficulty": 1
+ },
+ {
+  "id": 12,
+  "expression": "Could I get the bill, please?",
+  "meaning": "お会計をお願いできますか？",
+  "tag": "travel-dining",
+  "sample": "Excuse me, could I get the bill, please?",
+  "difficulty": 1
+ },
+ {
+  "id": 13,
+  "expression": "Where does this bus stop?",
+  "meaning": "このバスはどこで停まりますか？",
+  "tag": "travel",
+  "sample": "Excuse me, where does this bus stop?",
+  "difficulty": 2
+ },
+ {
+  "id": 14,
+  "expression": "That makes sense.",
+  "meaning": "なるほど、分かります。",
+  "tag": "conversation",
+  "sample": "Oh, that makes sense now.",
+  "difficulty": 2
+ },
+ {
+  "id": 15,
+  "expression": "Fair enough.",
+  "meaning": "それでいいよ／まあ妥当だね。",
+  "tag": "conversation",
+  "sample": "We can meet at eight. Fair enough.",
+  "difficulty": 2
+ },
+ {
+  "id": 16,
+  "expression": "It rings a bell.",
+  "meaning": "聞き覚えがあります。",
+  "tag": "idiom",
+  "sample": "The name rings a bell but I cannot place him.",
+  "difficulty": 3
+ },
+ {
+  "id": 17,
+  "expression": "Break a leg!",
+  "meaning": "頑張って！（舞台）",
+  "tag": "idiom",
+  "sample": "You have a show tonight. Break a leg!",
+  "difficulty": 2
+ },
+ {
+  "id": 18,
+  "expression": "To be honest, I disagree.",
+  "meaning": "正直に言うと反対です。",
+  "tag": "opinion",
+  "sample": "To be honest, I disagree with that plan.",
+  "difficulty": 3
+ },
+ {
+  "id": 19,
+  "expression": "With all due respect, ...",
+  "meaning": "失礼ですが／敬意を表しつつも",
+  "tag": "formal-disagree",
+  "sample": "With all due respect, the data says otherwise.",
+  "difficulty": 5
+ },
+ {
+  "id": 20,
+  "expression": "Do you happen to know?",
+  "meaning": "ひょっとしてご存知ですか？",
+  "tag": "indirect",
+  "sample": "Do you happen to know the train schedule?",
+  "difficulty": 3
+ }
+]

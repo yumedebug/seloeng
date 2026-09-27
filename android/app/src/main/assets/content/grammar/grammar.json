@@ -1,0 +1,374 @@
+[
+ {
+  "id": 1,
+  "title": "Articles: a / an / the",
+  "levelOrder": 0,
+  "category": "Articles",
+  "explanation": "Use 'a' before consonant sounds and 'an' before vowel sounds. Use 'the' when both speakers know which specific thing is meant. Use no article for general plural or uncountable nouns.",
+  "structure": "a + consonant sound | an + vowel sound | the + specific noun",
+  "examples": [
+   {
+    "text": "I bought a book and an umbrella.",
+    "translation": "本と傘を一つずつ買いました。"
+   },
+   {
+    "text": "The sun rises in the east.",
+    "translation": "太陽は東から昇ります。"
+   },
+   {
+    "text": "Dogs are loyal animals.",
+    "translation": "犬は忠実な動物です。"
+   }
+  ],
+  "commonMistakes": "'An university' is wrong because university starts with a /j/ sound. Say 'a university'.",
+  "relatedGrammar": "Countable and uncountable nouns|Prepositions",
+  "difficulty": 1
+ },
+ {
+  "id": 2,
+  "title": "Be verb: am / is / are",
+  "levelOrder": 0,
+  "category": "Verbs",
+  "explanation": "The verb 'be' links a subject to a description, identity, or location. It changes form with the subject and tense.",
+  "structure": "Subject + am/is/are (+ complement)",
+  "examples": [
+   {
+    "text": "She is a nurse.",
+    "translation": "彼女は看護師です。"
+   },
+   {
+    "text": "We are ready now.",
+    "translation": "私たちもう準備できています。"
+   },
+   {
+    "text": "They were late yesterday.",
+    "translation": "彼らは昨日遅れていました。"
+   }
+  ],
+  "commonMistakes": "Do not add another main verb: 'He is like football' -> 'He likes football'.",
+  "relatedGrammar": "Present simple|Subject-verb agreement",
+  "difficulty": 1
+ },
+ {
+  "id": 3,
+  "title": "Present simple",
+  "levelOrder": 0,
+  "category": "Tenses",
+  "explanation": "Use the present simple for habits, facts, and general truths. Add -s or -es for he/she/it.",
+  "structure": "Subject + verb(-s for third person)",
+  "examples": [
+   {
+    "text": "I drink tea every morning.",
+    "translation": "毎朝紅茶を飲みます。"
+   },
+   {
+    "text": "He works at a bank.",
+    "translation": "彼は銀行で働いています。"
+   },
+   {
+    "text": "Water boils at 100 degrees.",
+    "translation": "水は100度で沸騰します。"
+   }
+  ],
+  "commonMistakes": "Forgetting third-person -s: 'She go to school' -> 'She goes to school'.",
+  "relatedGrammar": "Present continuous|Adverbs of frequency",
+  "difficulty": 1
+ },
+ {
+  "id": 4,
+  "title": "Questions with do / does",
+  "levelOrder": 1,
+  "category": "Sentence types",
+  "explanation": "Form yes/no questions by putting do or does before the subject. Wh-questions add a question word at the front.",
+  "structure": "Do/Does + subject + base verb? | Wh-word + do/does + subject + base verb?",
+  "examples": [
+   {
+    "text": "Do you like jazz?",
+    "translation": "ジャズはお好きですか。"
+   },
+   {
+    "text": "Does she live nearby?",
+    "translation": "彼女はこの近くに住んでいますか。"
+   },
+   {
+    "text": "Where do you work?",
+    "translation": "どこでお仕事されていますか。"
+   }
+  ],
+  "commonMistakes": "Keep only one marked verb: 'Does he likes it?' -> 'Does he like it?'.",
+  "relatedGrammar": "Present simple|Short answers",
+  "difficulty": 1
+ },
+ {
+  "id": 5,
+  "title": "Past simple",
+  "levelOrder": 1,
+  "category": "Tenses",
+  "explanation": "Use the past simple for finished actions. Regular verbs add -ed; irregular verbs change form and must be memorised.",
+  "structure": "Subject + verb-ed / irregular past form",
+  "examples": [
+   {
+    "text": "We visited Osaka last spring.",
+    "translation": "去年の春大阪を訪れました。"
+   },
+   {
+    "text": "She bought a new laptop.",
+    "translation": "彼女は新しいノートパソコンを買った。"
+   },
+   {
+    "text": "They did not agree at first.",
+    "translation": "最初は同意しなかった。"
+   }
+  ],
+  "commonMistakes": "Double marking: 'Did you went?' -> 'Did you go?'.",
+  "relatedGrammar": "Irregular verbs|Past continuous",
+  "difficulty": 2
+ },
+ {
+  "id": 6,
+  "title": "Comparatives and superlatives",
+  "levelOrder": 2,
+  "category": "Comparison",
+  "explanation": "Use -er/more to compare two things and -est/most for three or more. Short adjectives take -er/-est; longer ones take more/most.",
+  "structure": "adj-er + than | more + adj + than | the + adj-est | the most + adj",
+  "examples": [
+   {
+    "text": "This box is heavier than that one.",
+    "translation": "この箱の方があの箱より重い。"
+   },
+   {
+    "text": "It is the most interesting film I know.",
+    "translation": "知っている中で最も面白い映画です。"
+   }
+  ],
+  "commonMistakes": "Do not stack markers: 'more bigger' -> 'bigger'.",
+  "relatedGrammar": "as...as|Adjectives",
+  "difficulty": 2
+ },
+ {
+  "id": 7,
+  "title": "Present perfect",
+  "levelOrder": 3,
+  "category": "Tenses",
+  "explanation": "Use have/has + past participle for past events with present relevance, life experience, or unfinished time periods.",
+  "structure": "Subject + have/has + past participle",
+  "examples": [
+   {
+    "text": "I have lived here for five years.",
+    "translation": "ここに住んで五年になります。"
+   },
+   {
+    "text": "She has never eaten sushi.",
+    "translation": "彼女は食べたことがありません。"
+   },
+   {
+    "text": "Have you finished yet?",
+    "translation": "もう終わりましたか。"
+   }
+  ],
+  "commonMistakes": "Do not use finished time words: 'I have seen it yesterday' -> 'I saw it yesterday'.",
+  "relatedGrammar": "Past simple|for and since",
+  "difficulty": 3
+ },
+ {
+  "id": 8,
+  "title": "Future: will vs going to",
+  "levelOrder": 3,
+  "category": "Tenses",
+  "explanation": "Use will for instant decisions, promises and predictions. Use be going to for plans already made or evidence-based predictions.",
+  "structure": "will + base verb | be going to + base verb",
+  "examples": [
+   {
+    "text": "I will help you carry that.",
+    "translation": "それを持つのを手伝いますよ。"
+   },
+   {
+    "text": "We are going to launch it in June.",
+    "translation": "6月に発売する予定です。"
+   },
+   {
+    "text": "Look at those clouds - it is going to rain.",
+    "translation": "あの雲を見て、雨が降りそうだ。"
+   }
+  ],
+  "commonMistakes": "'I will to call you' is wrong; will takes the bare infinitive: 'I will call you'.",
+  "relatedGrammar": "Present continuous for future|First conditional",
+  "difficulty": 3
+ },
+ {
+  "id": 9,
+  "title": "Passive voice",
+  "levelOrder": 4,
+  "category": "Voice",
+  "explanation": "Form the passive with be + past participle to focus on the action or when the agent is unknown or unimportant.",
+  "structure": "Subject + be (any tense) + past participle (+ by agent)",
+  "examples": [
+   {
+    "text": "The bridge was built in 1912.",
+    "translation": "この橋は1912年に建てられた。"
+   },
+   {
+    "text": "Mistakes will be corrected.",
+    "translation": "間違いは訂正されます。"
+   },
+   {
+    "text": "English is spoken worldwide.",
+    "translation": "英語は世界中で話されています。"
+   }
+  ],
+  "commonMistakes": "Keep the correct form of be for each tense: 'was wrote' -> 'was written'.",
+  "relatedGrammar": "Past participles|Reporting agents with by",
+  "difficulty": 4
+ },
+ {
+  "id": 10,
+  "title": "Relative clauses",
+  "levelOrder": 4,
+  "category": "Clauses",
+  "explanation": "Use who for people, which for things, that for either, and where for places to add information without starting a new sentence.",
+  "structure": "noun + who/which/that/where + clause",
+  "examples": [
+   {
+    "text": "The teacher who explains clearly is popular.",
+    "translation": "わかりやすく説明する先生に人気があります。"
+   },
+   {
+    "text": "This is the cafe that my sister recommended.",
+    "translation": "これは姉がお勧めしたカフェです。"
+   }
+  ],
+  "commonMistakes": "Do not double the subject: 'The book which I read it' -> 'The book which I read'.",
+  "relatedGrammar": "Defining vs non-defining|Pronouns",
+  "difficulty": 4
+ },
+ {
+  "id": 11,
+  "title": "Conditionals (zero and first)",
+  "levelOrder": 4,
+  "category": "Mood",
+  "explanation": "Zero conditional states general results; first conditional states likely future results of a real condition. The if-clause uses present tense even about the future.",
+  "structure": "if + present, present | if + present, will + base verb",
+  "examples": [
+   {
+    "text": "If you heat ice, it melts.",
+    "translation": "氷を加熱すると溶けます。"
+   },
+   {
+    "text": "If it rains tomorrow, we will stay in.",
+    "translation": "明日雨なら家にいます。"
+   }
+  ],
+  "commonMistakes": "Never put will inside the if-clause: 'If it will rain' -> 'If it rains'.",
+  "relatedGrammar": "Second conditional|Unless",
+  "difficulty": 4
+ },
+ {
+  "id": 12,
+  "title": "Gerunds and infinitives",
+  "levelOrder": 5,
+  "category": "Verb patterns",
+  "explanation": "Some verbs take a gerund (-ing) and others take an infinitive (to + verb). The choice is fixed by the main verb and must be learned together.",
+  "structure": "verb + doing | verb + to do",
+  "examples": [
+   {
+    "text": "She enjoys reading novels.",
+    "translation": "彼女は小説を読むのを楽しみます。"
+   },
+   {
+    "text": "They decided to move abroad.",
+    "translation": "彼らは海外に移ることに決めました。"
+   },
+   {
+    "text": "Stop to smoke and stop smoking mean different things.",
+    "translation": "stop to smoke と stop smoking は意味が大きく変わります。"
+   }
+  ],
+  "commonMistakes": "'I look forward to see you' is wrong; the to is a preposition: 'look forward to seeing you'.",
+  "relatedGrammar": "Preposition + gerund|Verb lists",
+  "difficulty": 5
+ },
+ {
+  "id": 13,
+  "title": "Reported speech",
+  "levelOrder": 5,
+  "category": "Speech",
+  "explanation": "When reporting what someone said, shift tenses back one step and adjust pronouns and time expressions.",
+  "structure": "said/told + (that) + shifted clause",
+  "examples": [
+   {
+    "text": "She said she was tired.",
+    "translation": "彼女は疲れたと言った。"
+   },
+   {
+    "text": "He told me he would call later.",
+    "translation": "後で電話すると言われました。"
+   }
+  ],
+  "commonMistakes": "Backshift consistently: 'He said he is busy yesterday' -> 'He said he had been busy'.",
+  "relatedGrammar": "Tense review|Question reporting",
+  "difficulty": 5
+ },
+ {
+  "id": 14,
+  "title": "Second and third conditionals",
+  "levelOrder": 5,
+  "category": "Mood",
+  "explanation": "Second conditional imagines unlikely present situations; third conditional regrets impossible past situations.",
+  "structure": "if + past simple, would + base verb | if + past perfect, would have + past participle",
+  "examples": [
+   {
+    "text": "If I had more time, I would learn piano.",
+    "translation": "時間がもっとあったならピアノを習うのに。"
+   },
+   {
+    "text": "If she had studied, she would have passed.",
+    "translation": "勉強していたなら合格していたでしょう。"
+   }
+  ],
+  "commonMistakes": "Match the halves: mixing second and third forms produces unclear meaning.",
+  "relatedGrammar": "Mixed conditionals|Wish",
+  "difficulty": 6
+ },
+ {
+  "id": 15,
+  "title": "Inversion after negative adverbials",
+  "levelOrder": 6,
+  "category": "Syntax",
+  "explanation": "When a negative or restrictive adverbial opens a sentence, invert subject and auxiliary for emphasis (formal style).",
+  "structure": "Never/Rarely/Seldom/Hardly + auxiliary + subject + verb",
+  "examples": [
+   {
+    "text": "Never have I seen such precision.",
+    "translation": "これほど精密なものを見たことがありません。"
+   },
+   {
+    "text": "Not only did she win, but she also broke the record.",
+    "translation": "彼女は勝っただけでなく記録も更新した。"
+   }
+  ],
+  "commonMistakes": "Keep normal order after mid-sentence adverbs: 'She never has...' is fine too.",
+  "relatedGrammar": "Emphasis clefts|Formal register",
+  "difficulty": 7
+ },
+ {
+  "id": 16,
+  "title": "Subjunctive mood",
+  "levelOrder": 7,
+  "category": "Mood",
+  "explanation": "Use the base form after verbs of demanding, suggesting, insisting, and in set phrases expressing wishes or hypotheticals.",
+  "structure": "insist/demand/suggest + that + subject + base verb",
+  "examples": [
+   {
+    "text": "I suggest that he study harder.",
+    "translation": "彼がもっと勉強すべきだと提案します。"
+   },
+   {
+    "text": "If I were you, I would accept.",
+    "translation": "あなたの立場なら受け入れます。"
+   }
+  ],
+  "commonMistakes": "Do not add -s in the that-clause in formal AmE: 'suggest that she study', not 'studies'.",
+  "relatedGrammar": "Wish clauses|Conditional review",
+  "difficulty": 8
+ }
+]

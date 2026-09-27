@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "text": "She sells seashells by the sea.",
+  "category": "EARLY"
+ },
+ {
+  "id": 2,
+  "text": "I would like a window seat, please.",
+  "category": "TRAVEL"
+ },
+ {
+  "id": 3,
+  "text": "The meeting has been moved to Thursday.",
+  "category": "BUSINESS"
+ },
+ {
+  "id": 4,
+  "text": "How much does it cost to repair the bike?",
+  "category": "EVERYDAY"
+ },
+ {
+  "id": 5,
+  "text": "Turn left at the traffic lights.",
+  "category": "TRAVEL"
+ },
+ {
+  "id": 6,
+  "text": "Could you repeat that more slowly?",
+  "category": "CLASSROOM"
+ },
+ {
+  "id": 7,
+  "text": "He has been studying English for two years.",
+  "category": "GRAMMAR"
+ },
+ {
+  "id": 8,
+  "text": "The train arrives at platform nine.",
+  "category": "TRAVEL"
+ }
+]

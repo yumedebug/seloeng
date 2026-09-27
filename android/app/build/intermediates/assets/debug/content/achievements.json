@@ -1,0 +1,182 @@
+[
+ {
+  "id": 1,
+  "name": "First Steps",
+  "description": "Complete your first lesson",
+  "icon": "STAR",
+  "category": "GENERAL",
+  "requirementType": "LESSONS_COMPLETED",
+  "requirementValue": 1,
+  "xpReward": 20
+ },
+ {
+  "id": 2,
+  "name": "Getting Serious",
+  "description": "Complete 10 lessons",
+  "icon": "BOOK",
+  "category": "GENERAL",
+  "requirementType": "LESSONS_COMPLETED",
+  "requirementValue": 10,
+  "xpReward": 50
+ },
+ {
+  "id": 3,
+  "name": "Scholar",
+  "description": "Complete 50 lessons",
+  "icon": "GRADUATION_CAP",
+  "category": "GENERAL",
+  "requirementType": "LESSONS_COMPLETED",
+  "requirementValue": 50,
+  "xpReward": 200
+ },
+ {
+  "id": 4,
+  "name": "Century",
+  "description": "Earn 100 XP",
+  "icon": "MEDAL",
+  "category": "GENERAL",
+  "requirementType": "TOTAL_XP",
+  "requirementValue": 100,
+  "xpReward": 10
+ },
+ {
+  "id": 5,
+  "name": "Half a Thousand",
+  "description": "Earn 500 XP",
+  "icon": "MEDAL",
+  "category": "GENERAL",
+  "requirementType": "TOTAL_XP",
+  "requirementValue": 500,
+  "xpReward": 50
+ },
+ {
+  "id": 6,
+  "name": "Thousandaire",
+  "description": "Earn 1000 XP",
+  "icon": "TROPHY",
+  "category": "GENERAL",
+  "requirementType": "TOTAL_XP",
+  "requirementValue": 1000,
+  "xpReward": 100
+ },
+ {
+  "id": 7,
+  "name": "Week Warrior",
+  "description": "Keep a 7-day streak",
+  "icon": "FLAME",
+  "category": "GENERAL",
+  "requirementType": "CURRENT_STREAK",
+  "requirementValue": 7,
+  "xpReward": 50
+ },
+ {
+  "id": 8,
+  "name": "Month Master",
+  "description": "Keep a 30-day streak",
+  "icon": "FLAME",
+  "category": "GENERAL",
+  "requirementType": "CURRENT_STREAK",
+  "requirementValue": 30,
+  "xpReward": 200
+ },
+ {
+  "id": 9,
+  "name": "Word Collector",
+  "description": "Learn 100 words",
+  "icon": "WORD",
+  "category": "GENERAL",
+  "requirementType": "WORDS_LEARNED",
+  "requirementValue": 100,
+  "xpReward": 50
+ },
+ {
+  "id": 10,
+  "name": "Wordsmith",
+  "description": "Learn 500 words",
+  "icon": "WORD",
+  "category": "GENERAL",
+  "requirementType": "WORDS_LEARNED",
+  "requirementValue": 500,
+  "xpReward": 150
+ },
+ {
+  "id": 11,
+  "name": "Lexicographer",
+  "description": "Learn 1000 words",
+  "icon": "BOOK",
+  "category": "GENERAL",
+  "requirementType": "WORDS_LEARNED",
+  "requirementValue": 1000,
+  "xpReward": 300
+ },
+ {
+  "id": 12,
+  "name": "Grammar Guru",
+  "description": "Master 20 grammar topics",
+  "icon": "CHECK",
+  "category": "GENERAL",
+  "requirementType": "GRAMMAR_MASTERED",
+  "requirementValue": 20,
+  "xpReward": 100
+ },
+ {
+  "id": 13,
+  "name": "Golden Ear",
+  "description": "Complete 20 listening exercises",
+  "icon": "HEADPHONES",
+  "category": "GENERAL",
+  "requirementType": "LISTENING_DONE",
+  "requirementValue": 20,
+  "xpReward": 60
+ },
+ {
+  "id": 14,
+  "name": "Bookworm",
+  "description": "Complete 10 reading passages",
+  "icon": "BOOK",
+  "category": "GENERAL",
+  "requirementType": "READING_DONE",
+  "requirementValue": 10,
+  "xpReward": 60
+ },
+ {
+  "id": 15,
+  "name": "Pen Pal",
+  "description": "Complete 10 writing exercises",
+  "icon": "PEN",
+  "category": "GENERAL",
+  "requirementType": "WRITING_DONE",
+  "requirementValue": 10,
+  "xpReward": 60
+ },
+ {
+  "id": 16,
+  "name": "Clear Voice",
+  "description": "Complete 10 speaking exercises",
+  "icon": "MIC",
+  "category": "GENERAL",
+  "requirementType": "SPEAKING_DONE",
+  "requirementValue": 10,
+  "xpReward": 60
+ },
+ {
+  "id": 17,
+  "name": "Perfect Round",
+  "description": "Finish a lesson with no mistakes",
+  "icon": "TARGET",
+  "category": "GENERAL",
+  "requirementType": "PERFECT_LESSONS",
+  "requirementValue": 1,
+  "xpReward": 30
+ },
+ {
+  "id": 18,
+  "name": "Flawless Five",
+  "description": "Finish five lessons with no mistakes",
+  "icon": "TARGET",
+  "category": "GENERAL",
+  "requirementType": "PERFECT_LESSONS",
+  "requirementValue": 5,
+  "xpReward": 100
+ }
+]

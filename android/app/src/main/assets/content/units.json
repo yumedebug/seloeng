@@ -1,0 +1,194 @@
+[
+ {
+  "id": 101,
+  "levelId": 1,
+  "order": 1,
+  "name": "Starter Unit 1",
+  "description": "Unit 1 of the Starter level",
+  "requiredXp": 0
+ },
+ {
+  "id": 102,
+  "levelId": 1,
+  "order": 2,
+  "name": "Starter Unit 2",
+  "description": "Unit 2 of the Starter level",
+  "requiredXp": 100
+ },
+ {
+  "id": 103,
+  "levelId": 1,
+  "order": 3,
+  "name": "Starter Unit 3",
+  "description": "Unit 3 of the Starter level",
+  "requiredXp": 200
+ },
+ {
+  "id": 104,
+  "levelId": 2,
+  "order": 1,
+  "name": "Beginner Unit 1",
+  "description": "Unit 1 of the Beginner level",
+  "requiredXp": 300
+ },
+ {
+  "id": 105,
+  "levelId": 2,
+  "order": 2,
+  "name": "Beginner Unit 2",
+  "description": "Unit 2 of the Beginner level",
+  "requiredXp": 400
+ },
+ {
+  "id": 106,
+  "levelId": 2,
+  "order": 3,
+  "name": "Beginner Unit 3",
+  "description": "Unit 3 of the Beginner level",
+  "requiredXp": 500
+ },
+ {
+  "id": 107,
+  "levelId": 3,
+  "order": 1,
+  "name": "Elementary Unit 1",
+  "description": "Unit 1 of the Elementary level",
+  "requiredXp": 600
+ },
+ {
+  "id": 108,
+  "levelId": 3,
+  "order": 2,
+  "name": "Elementary Unit 2",
+  "description": "Unit 2 of the Elementary level",
+  "requiredXp": 700
+ },
+ {
+  "id": 109,
+  "levelId": 3,
+  "order": 3,
+  "name": "Elementary Unit 3",
+  "description": "Unit 3 of the Elementary level",
+  "requiredXp": 800
+ },
+ {
+  "id": 110,
+  "levelId": 4,
+  "order": 1,
+  "name": "Pre-Intermediate Unit 1",
+  "description": "Unit 1 of the Pre-Intermediate level",
+  "requiredXp": 900
+ },
+ {
+  "id": 111,
+  "levelId": 4,
+  "order": 2,
+  "name": "Pre-Intermediate Unit 2",
+  "description": "Unit 2 of the Pre-Intermediate level",
+  "requiredXp": 1000
+ },
+ {
+  "id": 112,
+  "levelId": 4,
+  "order": 3,
+  "name": "Pre-Intermediate Unit 3",
+  "description": "Unit 3 of the Pre-Intermediate level",
+  "requiredXp": 1100
+ },
+ {
+  "id": 113,
+  "levelId": 5,
+  "order": 1,
+  "name": "Intermediate Unit 1",
+  "description": "Unit 1 of the Intermediate level",
+  "requiredXp": 1200
+ },
+ {
+  "id": 114,
+  "levelId": 5,
+  "order": 2,
+  "name": "Intermediate Unit 2",
+  "description": "Unit 2 of the Intermediate level",
+  "requiredXp": 1300
+ },
+ {
+  "id": 115,
+  "levelId": 5,
+  "order": 3,
+  "name": "Intermediate Unit 3",
+  "description": "Unit 3 of the Intermediate level",
+  "requiredXp": 1400
+ },
+ {
+  "id": 116,
+  "levelId": 6,
+  "order": 1,
+  "name": "Upper-Intermediate Unit 1",
+  "description": "Unit 1 of the Upper-Intermediate level",
+  "requiredXp": 1500
+ },
+ {
+  "id": 117,
+  "levelId": 6,
+  "order": 2,
+  "name": "Upper-Intermediate Unit 2",
+  "description": "Unit 2 of the Upper-Intermediate level",
+  "requiredXp": 1600
+ },
+ {
+  "id": 118,
+  "levelId": 6,
+  "order": 3,
+  "name": "Upper-Intermediate Unit 3",
+  "description": "Unit 3 of the Upper-Intermediate level",
+  "requiredXp": 1700
+ },
+ {
+  "id": 119,
+  "levelId": 7,
+  "order": 1,
+  "name": "Advanced Unit 1",
+  "description": "Unit 1 of the Advanced level",
+  "requiredXp": 1800
+ },
+ {
+  "id": 120,
+  "levelId": 7,
+  "order": 2,
+  "name": "Advanced Unit 2",
+  "description": "Unit 2 of the Advanced level",
+  "requiredXp": 1900
+ },
+ {
+  "id": 121,
+  "levelId": 7,
+  "order": 3,
+  "name": "Advanced Unit 3",
+  "description": "Unit 3 of the Advanced level",
+  "requiredXp": 2000
+ },
+ {
+  "id": 122,
+  "levelId": 8,
+  "order": 1,
+  "name": "Expert Unit 1",
+  "description": "Unit 1 of the Expert level",
+  "requiredXp": 2100
+ },
+ {
+  "id": 123,
+  "levelId": 8,
+  "order": 2,
+  "name": "Expert Unit 2",
+  "description": "Unit 2 of the Expert level",
+  "requiredXp": 2200
+ },
+ {
+  "id": 124,
+  "levelId": 8,
+  "order": 3,
+  "name": "Expert Unit 3",
+  "description": "Unit 3 of the Expert level",
+  "requiredXp": 2300
+ }
+]
